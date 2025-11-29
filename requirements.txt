@@ -1,0 +1,32 @@
+fastapi==0.95.2
+uvicorn[standard]==0.21.1
+
+# Streamlit atualizado para ser compatível com pandas 2.x e Python 3.12
+streamlit==1.32.0
+
+# PyTorch e dependências compatíveis com Python 3.12
+torch==2.2.2
+torchvision==0.17.2
+
+transformers==4.37.0
+
+# DeepFace precisa de versões modernas de numpy, pandas e opencv
+deepface==0.0.86
+
+Pillow==10.0.0
+
+# Numpy compatível com PyTorch 2.2 e Python 3.12
+numpy==1.26.0
+
+# Scikit-learn compatível com Python 3.12
+scikit-learn==1.5.2
+
+python-multipart==0.0.6
+pydantic==1.10.9
+requests==2.31.0
+
+# OpenCV compatível com Python 3.12
+opencv-python==4.9.0.80
+
+# Pandas compatível com streamlit novo e Python 3.12
+pandas==2.2.2
